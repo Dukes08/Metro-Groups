@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import GroupCard from "../components/GroupCard";
 import { useEffect, useState } from "react";
 import { collection, query, getDocs } from "firebase/firestore";
-import { db } from "../firebase";
+import { db } from "../firebase/config";
 import styles from "../components/UserPage.module.css";
 import { checkSubscription } from "../services/checkSubscription";
 

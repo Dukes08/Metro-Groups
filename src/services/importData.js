@@ -1,5 +1,5 @@
 import { collection, setDoc, doc } from "firebase/firestore";
-import { db } from "../firebase.js";
+import { db } from "../firebase/config";
 import jsonData from "../data.json";
 
 export async function loadGroupsData() {
