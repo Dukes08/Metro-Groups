@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import f from './firebase';
 import { getFirestore, collection, addDoc } from 'firebase/firestore';
+import '../App.css';
 
 const bd = getFirestore(f);
 
