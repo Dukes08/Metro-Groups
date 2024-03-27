@@ -1,0 +1,214 @@
+{
+"agrupaciones": [
+   {
+     "ID": "1",
+     "nombre": "Aiesec in UNIMET",
+     "mision": "Ser la plataforma internacional más grande para que los jóvenes descubran y desarrollen sus potenciales generando un impacto positivo en la sociedad, a través de un ambiente global de aprendizaje, oportunidades de liderazgo e intercambios profesionales internacionales.",
+     "vision": "Conseguir la paz y pleno desarrollo del potencial humano. Contribuir en el crecimiento de los países asociados y su gente como un compromiso inquebrantable hacia el entendimiento y la cooperación internacional.",
+     "contacto": { "Correo": "aiesecunimet@unimet.edu.ve", "Red Social": "@eb.unimet20" }
+   },
+   {
+     "ID": "2",
+     "nombre": "ALS UNIMET",
+     "mision": "",
+     "vision": "",
+     "contacto": { "Correo": "vinculacionuniversitaria@unimet.edu.ve", "Red Social": "" }
+   },
+   {
+     "ID": "3",
+     "nombre": "Amnistía Internacional",
+     "mision": "",
+     "vision": "",
+     "contacto": { "Correo": "amnistiaunimet@unimet.edu.ve", "Red Social": "@amnistiaunimet" }
+   },
+   {
+     "ID": "4",
+     "nombre": "ARCA Unimet",
+     "mision": "ARCA Unimet es una agrupación que incentiva la adopción de mascotas, especialmente perros adultos, la esterilización de las mismas y el buen trato animal, mediante actividades de carácter educativo enfocadas en estos principios. Asimismo, la interacción con nuestros perros, tanto dentro como fuera de la sede, forman parte vital de dicho proceso. Nuestra labor va dirigida a niños y jóvenes principalmente que hagan vida dentro de la comunidad unimetana, como a instituciones educativas afines a la Universidad Metropolitana.",
+     "vision": "Ser una agrupación capaz de fomentar la buena interacción entre las personas y los animales, la tenencia responsable de mascotas. Por otra parte, uno de nuestros objetivos a largo plazo es establecernos como un servicio comunitario propio enfocado en incentivar el buen trato animal mediante actividades de carácter educativo.",
+     "contacto": { "Correo": "arca@unimet.edu.ve", "Red Social": "@arcaunimet" }
+   },
+   {
+     "ID": "5",
+     "nombre": "Arcadia UNIMET",
+     "mision": "",
+     "vision": "",
+     "contacto": { "Correo": "vinculacionuniversitaria@unimet.edu.ve", "Red Social": "" }
+   },
+   {
+     "ID": "6",
+     "nombre": "Astromet",
+     "mision": "Fomentar el interés hacia la astronomía de la comunidad unimetana y venezolana en general, por medio de actividades periódicas orientadas a la astronomía y la ciencia.",
+     "vision": "Ser un referente en el ámbito astronómico y científico tanto dentro de Venezuela como en el exterior.",
+     "contacto": { "Correo": "astromet@unimet.edu.ve", "Red Social": "@astromet" }
+   },
+   {
+     "ID": "7",
+     "nombre": "CAVUM",
+     "mision": "CAVUM es una agrupación que busca generar un ambiente adecuado para la realización y difusión de actividades creativas, artísticas visuales y plásticas en los espacios de la Universidad Metropolitana, con el propósito de la libre expresión de los estudiantes, explotar el talento dentro de las “Artes Visuales”, que abarca todo tipo de trabajo imaginativo.",
+     "vision": "CAVUM busca ser la agrupación líder en la motivación y organización de actividades artísticas visuales dentro de la Universidad Metropolitana, brindando herramientas pertinentes en la diversa gama de actividades culturales en el ámbito del arte visual para toda la comunidad Unimetana.",
+     "contacto": { "Correo": "cavum@unimet.edu.ve", "Red Social": "@cavunimet" }
+   },
+   {
+     "ID": "8",
+     "nombre": "Chem-E-Car",
+     "mision": "Promover el desarrollo de competencias técnicas y prácticas en las áreas de ingeniería y química, dentro de un entorno propicio para la adquisición de habilidades de planificación, organización y control de recursos.",
+     "vision": "Consolidarnos como una agrupación de referencia nacional e internacional en el desarrollo de tecnologías sustentables de vanguardia en el área de transporte.",
+     "contacto": { "Correo": "chem-e-car@unimet.edu.ve", "Red Social": "@chemecar_unimet" }
+   },
+   {
+     "ID": "9",
+     "nombre": "Club de Finanzas",
+     "mision": "Generar, examinar, debatir y promover información relacionada con el ámbito financiero mediante la realización de actividades que enriquezcan y complementen el perfil académico del estudiante unimetano.",
+     "vision": "Lograr constituir y legitimar al Club de Finanzas como una agrupación productora y comunicadora de contenido relacionado al aspecto financiero, alcanzando además el reconocimiento nacional e internacional para dejar en alto el nombre de la Universidad Metropolitana.",
+     "contacto": { "Correo": "clubdefinanzas@unimet.edu.ve", "Red Social": "@clubfinanzasunimet", "Web": "https://clubdefinanzas.wixsite.com/unimet" }
+   },
+   {
+     "ID": "10",
+     "nombre": "Ensamble afro-venezolano",
+     "mision": "",
+     "vision": "La selección es un grupo musical apolítico y sin fines de lucro que tiene como propósito formar a estudiantes y personas que hacen vida en la Universidad Metropolitana en el ámbito musical, específicamente en la música tradicional venezolana y afrocaribeña.",
+     "contacto": { "Correo": "ensambleaf@unimet.edu.ve", "Red Social": "@emsambleav" }
+   },
+   {
+     "ID": "11",
+     "nombre": "Fórmula SAE",
+     "mision": "Brindar al estudiante de la Universidad Metropolitana la oportunidad de participar en un proyecto que se basa en la creación de un modelo de empresa, cuyo objetivo es el diseño y construcción de un prototipo de carro de carreras de alto desempeño que compita anualmente en la competencia “Formula SAE”, representando a la Universidad Metropolitana y a Venezuela internacionalmente.",
+     "vision": "Ofrecer profesionales reconocidos por su capacidad emprendedora, versatilidad, proactividad y habilidad en el área empresarial y técnica.",
+     "contacto": { "Correo": "formulasae@unimet.edu.ve", "Red Social": "@fsaeunimet" }
+   },
+   {
+     "ID": "12",
+     "nombre": "Gabinete UNIMET",
+     "mision": "Proveer un espacio en que los estudiantes puedan elaborar políticas públicas, así como desarrollar habilidades comprendidas en oratoria, debate, liderazgo y trabajo en equipo, a través de la constante práctica y dedicación.",
+     "vision": "Formar a nuestros miembros en el área de políticas públicas para que puedan crecer académica y profesionalmente. Con el conocimiento adquirido tengan la capacidad de contribuir al bienestar y progreso del país.",
+     "contacto": { "Correo": "gabinete@unimet.edu.ve", "Red Social": "@gabineteunimet" }
+   },
+   {
+     "ID": "13",
+     "nombre": "Metro Dj’s",
+     "mision": "Metrodj’s planifica metas a corto, mediano y largo plazo con la finalidad de generar propuestas para fomentar la apreciación del talento unimetano en el ámbito musical.",
+     "vision": "Crear un espacio de encuentro de disc jockeys para dar a conocer el talento unimetano.",
+     "contacto": { "Correo": "metrodjs@unimet.edu.ve", "Red Social": "@metrodjs" }
+   },
+   {
+     "ID": "14",
+     "nombre": "MetroMUN HNMUN",
+     "mision": "Utilizar los Modelos de Naciones Unidas como herramienta de crecimiento y superación.",
+     "vision": "Desafiar lo ordinario para formar individuos que creen y agreguen valor a donde vayan a través del resultado del entrenamiento MetroMUN.",
+     "contacto": { "Correo": "metromun@unimet.edu.ve", "Red Social": "@metromun" }
+   },
+   {
+     "ID": "15",
+     "nombre": "MetroMUN LA",
+     "mision": "La misión de este grupo es dar a sus miembros una experiencia de crecimiento personal a través de la comprensión de asuntos internacionales y el desarrollo de una mayor conciencia global. Los delegados deben extender capacidades de investigación, negociación, toma de decisiones, oratoria, liderazgo, constancia y trabajo en equipo con la particularidad de participar en conferencias tanto en el idioma inglés como español.",
+     "vision": "La delegación busca defender y exaltar los altos estándares y la reputación de la Unimet en todo momento, como la única delegación bilingüe de la institución que extiende la oportunidad a quienes no manejan en un nivel experto el idioma inglés, así como los que sí cumplen con dicho requisito. Este grupo proporcionará a los estudiantes en sus carreras de pregrado una experiencia educativa que busca mejorar la comprensión y el conocimiento de los principios de las Naciones Unidas y los fines para los que fue creado.",
+     "contacto": { "Correo": "metromun-la@unimet.edu.ve", "Red Social": "@metromunla" }
+   },
+   {
+     "ID": "16",
+     "nombre": "MetroMUN World",
+     "mision": "Trabajar arduamente por la formación de líderes que contribuyan activamente con la mejora de su universidad, sus comunidades y más importante aún, su país.",
+     "vision": "Convertirse en una delegación con larga trayectoria en la Unimet y expandir la participación e interés de los unimetanos en los Modelos de las Naciones Unidas.",
+     "contacto": { "Correo": "metromunworld@unimet.edu.ve", "Red Social": "@metromunworld" }
+   },
+   {
+     "ID": "17",
+     "nombre": "MetroTech",
+     "mision": "Fomentar e impartir cursos y realizar investigaciones sobre las diferentes áreas que puede tener la tecnología, tanto dentro de la misma agrupación como para los estudiantes de la Universidad en general.",
+     "vision": "Organizar un equipo de estudiantes apasionados por la tecnología y por alguna de las áreas que ésta pueda abarcar. Enaltecer y honrar el nombre de la agrupación y de la universidad a nivel nacional e internacional, y facilitar las investigaciones y la realización de las mismas.",
+     "contacto": { "Correo": "metrotech@unimet.edu.ve", "Red Social": "" }
+   },
+   {
+     "ID": "18",
+     "nombre": "Radio Unimetana",
+     "mision": "Tenemos como misión llegar a la comunidad unimetana y fomentar a la participación en las actividades radiales.",
+     "vision": "Brindar y fomentar a toda la comunidad unimetana la participación en las actividades radiales.",
+     "contacto": { "Correo": "radiounimetana@unimet.edu.ve", "Red Social": "@prunimetana" }
+   },
+   {
+     "ID": "19",
+     "nombre": "Rescate Unimet",
+     "mision": "Realizar actividades de búsqueda, rescate y salvamento de personas extraviadas y lesionadas, así como, combate de incendios de vegetación en parques nacionales, reservas forestales, bajo la coordinación del programa especial del campamento de incendios Pajaritos del Instituto Nacional de Parques (INPARQUES), así como colaborar con las actividades de la Universidad Metropolitana en las que se requiera de nuestra experiencia, concientizando de esta manera a nuestra comunidad en el sentido de preservación y conservación del medio ambiente.",
+     "vision": "Constituirnos como una agrupación conocida a nivel nacional, con personal altamente capacitado y calificado para las labores de apoyo y rescate dentro de parques nacionales y reservas forestales, así como, en situaciones de emergencia que requieran de nuestra experiencia.",
+     "contacto": { "Correo": "rescateum@unimet.edu.ve", "Red Social": "@rescateunimet" }
+   },
+   {
+     "ID": "20",
+     "nombre": "Samán Film Society",
+     "mision": "",
+     "vision": "",
+     "contacto": { "Correo": "vinculacionuniversitaria@unimet.edu.ve", "Red Social": "" }
+   },
+   {
+     "ID": "21",
+     "nombre": "Senet Unimet",
+     "mision": "Buscamos enseñar a los unimetanos interesados competencias tales como psicología, economía, finanzas, matemática, estadística y su aplicación en juegos de mesa y de estrategia en un ambiente que sea tanto entretenido como informativo alejado del azar y las apuestas. También hacer llegar a aquellos miembros que lo deseen un ambiente para que puedan desarrollar sus habilidades en los juegos de mesa en los que se desempeñen.",
+     "vision": "Queremos que aquellos interesados en formar parte de la agrupación salgan con un entendimiento de las competencias que pueden generar los juegos de mesa y puedan desarrollar las competencias aprendidas en su vida profesional y académica.",
+     "contacto": { "Correo": "senet@unimet.edu.ve", "Red Social": "@senetunimet" }
+   },
+   {
+     "ID": "22",
+     "nombre": "SPE UNIMET",
+     "mision": "",
+     "vision": "",
+     "contacto": { "Correo": "vinculacionuniversitaria@unimet.edu.ve", "Red Social": "" }
+   },
+   {
+     "ID": "23",
+     "nombre": "The Orange Post",
+     "mision": "Establecer un espacio dedicado a la investigación y redacción periodística veraz y confiable, por y para los estudiantes de la comunidad unimetana. Proporcionar a través de distintos medios (Newsletter, RR.SS. entre otros) información respaldada con hechos a los unimetanos.",
+     "vision": "Ser una agrupación formalmente establecida, comprometida con el objetivo de proporcionar información confiable y veraz a la Universidad Metropolitana. Además, proporcionar un espacio a los estudiantes que quieran reforzar las competencias de investigación, redacción, sensibilidad estética, trabajo en equipo, entre otras.",
+     "contacto": { "Correo": "theorangepost@unimet.edu.ve", "Red Social": "@top_unimet" }
+   },
+   {
+     "ID": "24",
+     "nombre": "Tiger Unimet Cheer",
+     "mision": "",
+     "vision": "",
+     "contacto": { "Correo": "", "Red Social": "@unimetcheer" }
+   },
+   {
+     "ID": "25",
+     "nombre": "Unimet Debate",
+     "mision": "Establecer y acrecentar las relaciones con otras asociaciones civiles, gremiales, organismos e instituciones públicas y de carácter privado, así como podrá coordinar eventos o actividades promovidos o desarrollados por otros grupos, movimientos, asociados o instituciones, tanto a nivel nacional como internacional, siempre que se procuren fines similares o análogos a los propuestos por la agrupación. La agrupación instrumentará mecanismos de trabajo basados en el formato de debate Policy, formato de debate Parlamentario Británico o cualquier otro formato que considere. A su vez, estará habilitada para participar en concursos nacionales e internacionales.",
+     "vision": "Movilizar todos sus medios con miras a desarrollar el pensamiento crítico a través de la herramienta del debate competitivo, a la par que buscará promover y fortalecer la oratoria entre la juventud, para erradicar el miedo a expresar ideas.",
+     "contacto": { "Correo": "unimetdebate@unimet.edu.ve", "Red Social": "@unimetdebate" }
+   },
+   {
+     "ID": "26",
+     "nombre": "UNIMET Fitness",
+     "mision": "Posicionarnos como una agrupación que logre ofrecer un espacio deportivo a todos los estudiantes de la Unimet en el que puedan realizar todo tipo de actividades para la preparación física y de esta manera poder llevar una vida más saludable acompañada a la rutina universitaria.",
+     "vision": "Crecer como agrupación y poder generar todo tipo de actividades deportivas para todos los distintos intereses que puedan tener los estudiantes de la universidad metropolitana, así como planificar dichas actividades teniendo en cuenta todos sus objetivos y precauciones pertinentes. Unimet Fitness también tiene como visión recobrar todos los valores de la Unimet, así como fomentar el trabajo en equipo y la integración de todos los estudiantes de manera que se recupere lo que es la identidad unimetana y un ambiente más agradable entre los estudiantes.",
+     "contacto": { "Correo": "unimetfitness@unimet.edu.ve", "Red Social": "@unimetfitness" }
+   },
+   {
+     "ID": "27",
+     "nombre": "UNIMET SAE AeroDesign",
+     "mision": "Formar un equipo de estudiantes unimetanos que tengan como objetivo el diseño y la construcción de un aeromodelo radio controlado con el fin de representar a Venezuela y a la universidad a escala internacional.",
+     "vision": "Fomentar en los estudiantes de la Universidad Metropolitana las nociones básicas de ingeniería mediante la gestión y puesta en marcha de un proyecto de alta competición en donde se puedan medir con estudiantes de todo el mundo. Unimet SAE AeroDesign busca que los estudiantes de ingeniería dejen a un lado la teoría y aprendan de manera práctica las diferentes facetas que se deben cumplir a lo largo de un proyecto de ingeniería real.",
+     "contacto": { "Correo": "aerodesign@unimet.edu.ve", "Red Social": "@proyectousad" }
+   },
+   {
+     "ID": "28",
+     "nombre": "Venezuelan Mun Society",
+     "mision": "La misión del Modelo Venezolano Mun Society es asistir al Modelo Nacional de Harvard Conferencia de las Naciones Unidas para América Latina.",
+     "vision": "Ser impulsado por el deseo de crecer en experiencia y excelencia, asegurando el mejor rendimiento posible.",
+     "contacto": { "Correo": "vmunsociety@unimet.edu.ve", "Red Social": "@vmunsociety" }
+   },
+   {
+     "ID": "29",
+     "nombre": "Visus Unimet",
+     "mision": "Visus Unimet busca formar a los estudiantes unimetanos en capacidades tales como la habilidad para debatir, la oratoria, el pensamiento crítico, la resolución de conflictos y la argumentación a fin de que cada miembro de la agrupación se convierta en un agente de cambio social, dentro y fuera del ambiente universitario, comprometido con la lucha por los derechos para todos sin distinción.",
+     "vision": "Visus Unimet persigue la meta de influir en los miembros de la agrupación a través de la educación, fomentando la sensibilidad social y el compromiso cívico, con el objeto de contribuir a crear un ambiente de plena tolerancia, tanto en la Universidad Metropolitana como fuera del campus, formando individuos conscientes y proactivos.",
+     "contacto": { "Correo": "visus@unimet.edu.ve", "Red Social": "@visusunimet" }
+   },
+   {
+     "ID": "30",
+     "nombre": "VOX",
+     "mision": "Reunir a los jóvenes universitarios destacados y comprometidos con su comunidad para potenciar sus cualidades y capacidades de líderes.",
+     "vision": "Generar una conciencia ciudadana sobre la responsabilidad que conlleva el poder y la influencia de un líder en nuestra sociedad.",
+     "contacto": { "Correo": "vox@unimet.edu.ve", "Red Social": "@voxistas" }
+   }
+ ]
+}
