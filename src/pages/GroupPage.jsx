@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 import { useState, useEffect } from "react";
-import { db } from "../firebase";
+import { db } from "../firebase/config";
 import {
     getDocs,
     getDoc,
