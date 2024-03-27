@@ -1,5 +1,5 @@
 import { getDocs, query, where, collection } from "firebase/firestore";
-import { db } from "../firebase";
+import { db } from "../firebase/config";
 
 export const checkSubscription = async (user, clubId) => {
   try {
